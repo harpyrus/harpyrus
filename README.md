@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harpyrus
-- 👀 I’m interested in flying across oceans and forests.
+- 👀 I’m passionate flying across oceans and forests.
 
 <!---
 harpyrus/harpyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
